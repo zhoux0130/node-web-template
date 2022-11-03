@@ -32,16 +32,16 @@
     "nodemon": "^2.0.20",
     "prettier": "^2.7.1",
     "ts-node": "^10.9.1",
-    "typescript": "^4.8.4"
+    "typescript": "^4.8.4",
+    "jasmine": "^4.4.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "supertest": "^6.3.0"
   },
   "bugs": {
     "url": "https://github.com/zhoux0130/udacity-image-processing/issues"
   },
   "homepage": "https://github.com/zhoux0130/udacity-image-processing#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "jasmine": "^4.4.0",
-    "jasmine-spec-reporter": "^7.0.0",
-    "supertest": "^6.3.0"
+    "express": "^4.18.2"
   }
 }
